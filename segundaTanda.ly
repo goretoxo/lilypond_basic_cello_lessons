@@ -94,7 +94,7 @@
 
 \score {
   \header {
-    title = "London in burning"
+    title = "London is burning"
   }
   \layout { }
   \midi { }
