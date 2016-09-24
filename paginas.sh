@@ -4,6 +4,7 @@
 #
 # las fuentes son:
 #	A=IMSLP108671-PMLP220979-Lee_-_Methode_pour_la_violoncelle__Violoncell-Schule__.pdf	
+#	J=IMSLP236771-PMLP383764-Alexanian_-_Theoretical_and_practical_treatise_of_the_violoncello__French_Engl_.pdf
 #	B=IMSLP10870-Dotzauer_-_exercises_for_violoncello_book_I.pdf	
 # 	C=IMSLP20228-PMLP47173-Klengel_-_Technical_Cello_Studies_Vol.1.pdf	
 #	D=IMSLP237099-PMLP384191-Lee_-_40_leichte_Etuden__Easy_Etudes__for_Cello_Op70__Becker_.pdf	
