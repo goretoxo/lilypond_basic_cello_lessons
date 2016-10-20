@@ -4,7 +4,7 @@ La idea es hacer una serie de paginas desde Lilypond que contengan todo lo que v
 asi me sirve de practica de lectura, y de practica de transcripcion con un sistema sencillo
 pero extremadamente flexible.
 
-..hay un abc2ly, para convertir las partituras en formato ABC a Lylipond (!)
+..hay un [abc2ly](http://lilypond.org/doc/v2.19/Documentation/usage/invoking-abc2ly), para convertir las partituras en formato ABC a Lylipond (!)
 
 ...
 20160826
