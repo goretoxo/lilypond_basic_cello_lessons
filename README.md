@@ -1,13 +1,11 @@
-20160825
-repositorio de trabajo para las transcripciones de repertorio de cello
-La idea es hacer una serie de paginas desde Lilypond que contengan todo lo que voy tocando,
-asi me sirve de practica de lectura, y de practica de transcripcion con un sistema sencillo
-pero extremadamente flexible.
+## Lilypond basic cello lessons transcriptions
 
-..hay un [abc2ly](http://lilypond.org/doc/v2.19/Documentation/usage/invoking-abc2ly), para convertir las partituras en formato ABC a Lylipond (!)
+- Working repo for cello learning lessons, from different sources.
+- the objective is having some lilypond pages with all the stuff a novice player uses
+- and some practice on writting lilypond files
 
-...
-20160826
-tambien sirve como taller de corta/pega de pdfs, para montar "libretos" de trabajo con las paginas
-que hay que estudiar en cada tiempo.
+- there's a [abc2ly](http://lilypond.org/doc/v2.19/Documentation/usage/invoking-abc2ly), to convert ABC files into lilypond (one song per ABC file)
+
+- with the inclusion of pdftk magic, this is an example of "complound books" for educational purposes
+
 
